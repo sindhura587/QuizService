@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # QuizService
 Spring Boot quiz microservice with JPA persistence, Feign-based question service integration, Eureka client support, and PostgreSQL backing.
 =======
@@ -72,8 +72,7 @@ java -jar target/quiz-service-0.0.1-SNAPSHOT.jar
 Or run from Maven:
 
 ```bash
-mvn spring-boot:run
-```
+mvn spring-boot:run ```
 
 ## Notes
 
