@@ -19,7 +19,7 @@ A Spring Boot quiz microservice that creates quizzes, retrieves quiz questions, 
 ## Components
 
 - `QuizController` - REST API endpoints
-- `QuizService` - business logic for quiz creation, retrieval, and scoring
+- `QuizService` - business logic for quiz creation, retrieval, and scorings
 - `QuizDao` - JPA repository for quiz persistence
 - `QuizInterface` - Feign client for requesting questions from an external service
 - domain models: `Quiz`, `QuizDTO`, `QuestionWrapper`, `Response`
